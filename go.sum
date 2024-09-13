@@ -2,3 +2,5 @@ gopkg.hlmpn.dev/pkg/go-logger v0.0.2 h1:n8QQc90kwqaY1bWfxGWVm4DxmpK+kJaPAVmtaTq2
 gopkg.hlmpn.dev/pkg/go-logger v0.0.2/go.mod h1:CmD+7PpD/2WzOYLlZ1Ff4ua5nV6Jz1bKyUWxGGRMeks=
 gopkg.hlmpn.dev/pkg/go-logger v0.0.3 h1:k4bUKWF101r4TqVO/GoVHKxJUeM9X6hk5K7saLbjxhs=
 gopkg.hlmpn.dev/pkg/go-logger v0.0.3/go.mod h1:ZJioeTyTMAUeyuLvn7uFG2ysbjkbATozQW2jT61QAWM=
+gopkg.hlmpn.dev/pkg/go-logger v0.0.4 h1:KGSJttswgFpVFV7NsxlgN+bH+GPfaZBXwXnjIbila5o=
+gopkg.hlmpn.dev/pkg/go-logger v0.0.4/go.mod h1:ZJioeTyTMAUeyuLvn7uFG2ysbjkbATozQW2jT61QAWM=

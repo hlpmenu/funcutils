@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"gopkg.hlmpn.dev/pkg/go-logger"
-	errutil "gopkg.hlmpn.dev/pkg/go-logger/errors"
+	errutil "gopkg.hlmpn.dev/pkg/go-logger/errutil"
 )
 
 func Recover() {
